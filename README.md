@@ -16,7 +16,7 @@ This project allows users to ask questions about **Indian Geography**, and the s
 4.  **Retrieval**: When a question is posed, the system identifies and retrieves the most semantically similar text chunks from the Chroma database.
 5.  **Generation**: The retrieved context and the user's question are then fed to the Llama3 LLM (running via Ollama) to synthesize a comprehensive and contextually accurate answer.
 
-## ✨ **Features**
+## **Features**
 
 * Retrieval-Augmented Generation (RAG) pipeline
 * Embedding-based similarity search
@@ -37,7 +37,7 @@ This project allows users to ask questions about **Indian Geography**, and the s
 
 ---
 
-## 📷 Example Output
+## Example Output
 
 ```
 User Question: "Tell me about Gujarat State"

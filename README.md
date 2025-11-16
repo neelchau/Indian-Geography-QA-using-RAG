@@ -53,5 +53,3 @@ RAG Answer:
 * Geography learning assistant
 * AI-powered study tool
 * RAG pipeline demonstration
-
-Just tell me!
